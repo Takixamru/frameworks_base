@@ -6179,6 +6179,12 @@ public final class Settings {
          */
 
        /**
+         * Whether to display cross sign for a data disabled connection
+         * @hide
+         */
+        public static final String DATA_DISABLED_ICON = "data_disabled_icon";
+
+       /**
          * Whether or not volume button music controls should be enabled to seek media tracks
          * @hide
          */
